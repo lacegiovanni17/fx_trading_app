@@ -1,6 +1,13 @@
 /* eslint-disable prettier/prettier */
 import { ConfigModule, ConfigService } from '@nestjs/config';
 import { User } from './users/entities/user.entity';
+import { AuthModule } from './auth/auth.module';
+import { UsersModule } from './users/users.module';
+import { WalletModule } from './wallet/wallet.module';
+import { TransactionsModule } from './transactions/transactions.module';
+import { FxModule } from './fx/fx.module';
+import { Module } from '@nestjs/common';
+import { TypeOrmModule } from '@nestjs/typeorm';
 
 @Module({
   imports: [
@@ -21,6 +28,9 @@ import { User } from './users/entities/user.entity';
     }),
     AuthModule,
     UsersModule,
+    WalletModule,
+    TransactionsModule,
+    FxModule,
     // ...
   ],
 })
