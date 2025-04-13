@@ -6,6 +6,14 @@ This backend API powers a foreign exchange (FX) trading platform where users can
 
 Built using NestJS, it supports robust features like multi-currency wallets, OTP-based email verification, and real-time FX rate conversion using third-party APIs. The architecture emphasizes security, atomic wallet transactions, and scalability for high-traffic financial operations 🚀.
 
+## About 
+* 👋 Hi, I’m Chidike Henry
+* 😎 I’m a fullstack developer
+* 💻 This is Music booking API, which I built that connects artists 🎤, event organizers 🎟️, and music lovers 🎶 seamlessly. 
+* 💞️ I’m looking to collaborate on JS and DevOps projects
+* 📫 How to reach me chidike.henry@gmail.com
+
+
 ## ✨ Key Features
 
 - 🔐 User Management: Register with email, verify using OTP, and access platform after activation
