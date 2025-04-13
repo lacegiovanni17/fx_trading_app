@@ -9,7 +9,7 @@ Built using NestJS, it supports robust features like multi-currency wallets, OTP
 ## About 
 * 👋 Hi, I’m Chidike Henry
 * 😎 I’m a fullstack developer
-* 💻 This is Music booking API, which I built that connects artists 🎤, event organizers 🎟️, and music lovers 🎶 seamlessly. 
+* 💻 This is backend API powers a foreign exchange (FX) trading platform. 
 * 💞️ I’m looking to collaborate on JS and DevOps projects
 * 📫 How to reach me chidike.henry@gmail.com
 
